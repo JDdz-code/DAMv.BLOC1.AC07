@@ -1,0 +1,15 @@
+C:\Users\isard\source\repos\CodeQuest\bin\Debug\net10.0\CodeQuest.exe
+C:\Users\isard\source\repos\CodeQuest\bin\Debug\net10.0\CodeQuest.deps.json
+C:\Users\isard\source\repos\CodeQuest\bin\Debug\net10.0\CodeQuest.runtimeconfig.json
+C:\Users\isard\source\repos\CodeQuest\bin\Debug\net10.0\CodeQuest.dll
+C:\Users\isard\source\repos\CodeQuest\bin\Debug\net10.0\CodeQuest.pdb
+C:\Users\isard\source\repos\CodeQuest\obj\Debug\net10.0\CodeQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\source\repos\CodeQuest\obj\Debug\net10.0\CodeQuest.AssemblyInfoInputs.cache
+C:\Users\isard\source\repos\CodeQuest\obj\Debug\net10.0\CodeQuest.AssemblyInfo.cs
+C:\Users\isard\source\repos\CodeQuest\obj\Debug\net10.0\CodeQuest.csproj.CoreCompileInputs.cache
+C:\Users\isard\source\repos\CodeQuest\obj\Debug\net10.0\CodeQuest.dll
+C:\Users\isard\source\repos\CodeQuest\obj\Debug\net10.0\refint\CodeQuest.dll
+C:\Users\isard\source\repos\CodeQuest\obj\Debug\net10.0\CodeQuest.pdb
+C:\Users\isard\source\repos\CodeQuest\obj\Debug\net10.0\CodeQuest.genruntimeconfig.cache
+C:\Users\isard\source\repos\CodeQuest\obj\Debug\net10.0\ref\CodeQuest.dll
+C:\Users\isard\source\repos\CodeQuest\obj\Debug\net10.0\CodeQuest.csproj.Up2Date
